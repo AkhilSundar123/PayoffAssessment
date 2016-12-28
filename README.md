@@ -13,15 +13,15 @@ The code  contains a automation test script to test http://httpbin.org/ link.
 
 ## Perform Test on the Endpoints
 
-- #### GET<br />
+- GET<br />
 
 Tested /get endpoint by matching the URL content in its response
 
-- #### POST<br />
+- POST<br />
 
 Tested /post endpoint by checking whether the element has "href"
 
-- #### FORM<br />
+- FORM<br />
 
 Tested /form endpoint by submitting form details and checking the URL content in its response
 
